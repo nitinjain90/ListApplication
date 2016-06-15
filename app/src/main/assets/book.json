@@ -1,0 +1,54 @@
+{
+  "book" :{
+    "name": "My Book",
+    "author":"Nitin Jain",
+     "chapters":[
+       {
+         "name":"Chapter 1",
+          "sections":[
+            {
+              "name": "Section One"
+            },
+            {
+              "name": "Section Two"
+            },
+            {
+              "name": "Section Three"
+            }
+
+          ]
+       },
+       {
+         "name":"Chapter 2",
+         "sections":[
+           {
+             "name": "Section Four"
+           },
+           {
+             "name": "Section Five"
+           },
+           {
+             "name": "Section Six"
+           }
+
+         ]
+       },
+       {
+         "name":"Chapter 3",
+         "sections":[
+           {
+             "name": "Section Seven"
+           },
+           {
+             "name": "Section Eight"
+           },
+           {
+             "name": "Section Nine"
+           }
+
+         ]
+       }
+     ]
+  }
+
+}

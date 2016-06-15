@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="72dp"
+    android:orientation="vertical"
+   >
+   <ImageView android:layout_height="64dp"
+       android:layout_width="64dp"
+       android:id="@+id/contact_image"
+       android:layout_alignParentStart="true"
+       />
+
+   <LinearLayout android:layout_height="match_parent"
+       android:layout_width="wrap_content"
+       android:orientation="vertical"
+       android:id="@+id/contact_layout"
+       android:layout_toRightOf="@id/contact_image"
+       android:paddingLeft="5dp"
+       >
+    <TextView
+        android:layout_weight="1"
+        android:id="@+id/contact_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Harsh Jain"
+        android:textColor="#212121"
+        android:textSize="28dp"
+        android:paddingLeft="30dp"/>
+
+    <TextView
+        android:layout_weight="1"
+        android:id="@+id/contact_number"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="2dp"
+        android:text="9167100431"
+        android:textColor="#9E9E9E"
+        android:textSize="14dp"
+        android:paddingLeft="30dp"
+        />
+    </LinearLayout>
+    <ImageButton
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/delete_contact"
+        android:src="@android:drawable/ic_menu_delete"
+        android:layout_alignParentRight="true"
+        android:padding="10dp"
+        android:layout_centerInParent="true"
+        android:visibility="invisible"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        />
+
+</RelativeLayout>

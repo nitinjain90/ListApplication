@@ -1,0 +1,84 @@
+{
+  "cities": [
+    {
+      "city": "Mumbai",
+      "population": "102000302",
+      "country": "India"
+    },
+    {
+      "city": "Kolkata",
+      "population": "102000302",
+      "country": "India"
+    },
+    {
+      "city": "New Delhi",
+      "population": "102000302",
+      "country": "India"
+    },
+    {
+      "city": "New York",
+      "population": "102000302",
+      "country": "United States of America"
+    },
+    {
+      "city": "Rome",
+      "population": "102000302",
+      "country": "Italy"
+    },
+    {
+      "city": "Madrid",
+      "population": "102000302",
+      "country": "Spain"
+    },
+    {
+      "city": "Bangkok",
+      "population": "102000302",
+      "country": "Thailand"
+    },
+    {
+      "city": "Beijing",
+      "population": "102000302",
+      "country": "China"
+    },
+    {
+      "city": "Islamabad",
+      "population": "102000302",
+      "country": "Pakistan"
+    },
+    {
+      "city": "Bangalore",
+      "population": "102000302",
+      "country": "India"
+    },
+    {
+      "city": "Nagpur",
+      "population": "102000302",
+      "country": "India"
+    },
+    {
+      "city": "Dubai",
+      "population": "102000302",
+      "country": "UAE"
+    },
+    {
+      "city": "London",
+      "population": "102000302",
+      "country": "England"
+    },
+    {
+      "city": "Sydney",
+      "population": "102000302",
+      "country": "Australia"
+    },
+    {
+      "city": "Chicago",
+      "population": "102000302",
+      "country": "USA"
+    },
+    {
+      "city": "Sao Paulo",
+      "population": "102000302",
+      "country": "Brazil"
+    }
+  ]
+}
